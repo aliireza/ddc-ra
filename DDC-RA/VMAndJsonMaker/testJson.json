@@ -1,0 +1,7258 @@
+{
+"pools": [
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+},
+{
+"type": "CPU",
+"cores": 112,
+"memory": 32768,
+"penalty": 0
+},
+{
+"type": "LOCALMEM",
+"cores": 0,
+"memory": 131072,
+"penalty": 1
+},
+{
+"type": "REMOTEMEM",
+"cores": 0,
+"memory": 262144,
+"penalty": 2
+}
+],
+"clusters": [
+{
+"pools": [
+1,
+2,
+3
+]
+},
+{
+"pools": [
+4,
+5,
+6
+]
+},
+{
+"pools": [
+7,
+8,
+9
+]
+},
+{
+"pools": [
+10,
+11,
+12
+]
+},
+{
+"pools": [
+13,
+14,
+15
+]
+},
+{
+"pools": [
+16,
+17,
+18
+]
+},
+{
+"pools": [
+19,
+20,
+21
+]
+},
+{
+"pools": [
+22,
+23,
+24
+]
+},
+{
+"pools": [
+25,
+26,
+27
+]
+},
+{
+"pools": [
+28,
+29,
+30
+]
+},
+{
+"pools": [
+31,
+32,
+33
+]
+},
+{
+"pools": [
+34,
+35,
+36
+]
+},
+{
+"pools": [
+37,
+38,
+39
+]
+},
+{
+"pools": [
+40,
+41,
+42
+]
+},
+{
+"pools": [
+43,
+44,
+45
+]
+},
+{
+"pools": [
+46,
+47,
+48
+]
+},
+{
+"pools": [
+49,
+50,
+51
+]
+},
+{
+"pools": [
+52,
+53,
+54
+]
+},
+{
+"pools": [
+55,
+56,
+57
+]
+},
+{
+"pools": [
+58,
+59,
+60
+]
+},
+{
+"pools": [
+61,
+62,
+63
+]
+},
+{
+"pools": [
+64,
+65,
+66
+]
+},
+{
+"pools": [
+67,
+68,
+69
+]
+},
+{
+"pools": [
+70,
+71,
+72
+]
+},
+{
+"pools": [
+73,
+74,
+75
+]
+},
+{
+"pools": [
+76,
+77,
+78
+]
+},
+{
+"pools": [
+79,
+80,
+81
+]
+},
+{
+"pools": [
+82,
+83,
+84
+]
+},
+{
+"pools": [
+85,
+86,
+87
+]
+},
+{
+"pools": [
+88,
+89,
+90
+]
+},
+{
+"pools": [
+91,
+92,
+93
+]
+},
+{
+"pools": [
+94,
+95,
+96
+]
+},
+{
+"pools": [
+97,
+98,
+99
+]
+},
+{
+"pools": [
+100,
+101,
+102
+]
+},
+{
+"pools": [
+103,
+104,
+105
+]
+},
+{
+"pools": [
+106,
+107,
+108
+]
+},
+{
+"pools": [
+109,
+110,
+111
+]
+},
+{
+"pools": [
+112,
+113,
+114
+]
+},
+{
+"pools": [
+115,
+116,
+117
+]
+},
+{
+"pools": [
+118,
+119,
+120
+]
+},
+{
+"pools": [
+121,
+122,
+123
+]
+},
+{
+"pools": [
+124,
+125,
+126
+]
+},
+{
+"pools": [
+127,
+128,
+129
+]
+},
+{
+"pools": [
+130,
+131,
+132
+]
+},
+{
+"pools": [
+133,
+134,
+135
+]
+},
+{
+"pools": [
+136,
+137,
+138
+]
+},
+{
+"pools": [
+139,
+140,
+141
+]
+},
+{
+"pools": [
+142,
+143,
+144
+]
+},
+{
+"pools": [
+145,
+146,
+147
+]
+},
+{
+"pools": [
+148,
+149,
+150
+]
+}
+],
+"servers": [
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10248
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5714
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50726
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13861
+},
+{
+"cores": 24,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 61932
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8921
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14008
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7815
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 36275
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40993
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11501
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12681
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3485
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7741
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35980
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10174
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11428
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 100860
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6894
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11501
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 110960
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3485
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3871
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4498
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5088
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45712
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6304
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13861
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30671
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8921
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10101
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5677
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35980
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10248
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5714
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6341
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13861
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7741
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35685
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40404
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11354
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12534
+},
+{
+"cores": 8,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 120637
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11428
+},
+{
+"cores": 8,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 110960
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 110888
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30966
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8921
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10174
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45417
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3153
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 120637
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3834
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35390
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40404
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11280
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12534
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3429
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3760
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 70189
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9953
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44827
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6194
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54560
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1936
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8995
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40698
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5714
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12607
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 55444
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7667
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35685
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40404
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5677
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50136
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13787
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 66447
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35390
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40109
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44827
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6231
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54560
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45417
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6267
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13787
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30376
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8847
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5014
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5641
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12460
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13713
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30081
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4387
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39814
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11206
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12386
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13566
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 59572
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 69010
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9879
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5530
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6157
+},
+{
+"cores": 30,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6747
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7373
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34210
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9806
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43943
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3061
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6710
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 128378
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33915
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9732
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5456
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12091
+},
+{
+"cores": 30,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13345
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7263
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8405
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9584
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10838
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48071
+},
+{
+"cores": 8,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 116121
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57804
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2083
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2378
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5383
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11944
+},
+{
+"cores": 12,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 52790
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3595
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33031
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9437
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10617
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11870
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6525
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14303
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2028
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 105579
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57509
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33031
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9437
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2673
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11870
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 52495
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57214
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4092
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 37454
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42468
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5899
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 104399
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7115
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8036
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2323
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41878
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5862
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12902
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56624
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3981
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 36865
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2600
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2913
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 112250
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7042
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3945
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2286
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2581
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46007
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12755
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13934
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7815
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35980
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5124
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5714
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50726
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13861
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1936
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8921
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10174
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5677
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3153
+},
+{
+"cores": 24,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3448
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30671
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4424
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10027
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11280
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6231
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13713
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7520
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8773
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39814
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11206
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12386
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3411
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3723
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8700
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39519
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2784
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12312
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54265
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 29492
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 68420
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2452
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43943
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12239
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6710
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7337
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2120
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2434
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10912
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12165
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13345
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3651
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2102
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38634
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 86705
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12091
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53085
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7226
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33325
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9511
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10764
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11944
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13197
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3595
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4129
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 37749
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5346
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 94962
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 104989
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43058
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12017
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13197
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57804
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4129
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4756
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5346
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11870
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13123
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57214
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4092
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 37454
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42468
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2950
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13050
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56919
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8110
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 37159
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42173
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46892
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51905
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 113247
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7962
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9216
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41583
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46597
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51316
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7042
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7889
+},
+{
+"cores": 24,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2286
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10322
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2895
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51021
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56034
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1954
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 36275
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2563
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46007
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3171
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6931
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3871
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8921
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5088
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45417
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12607
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 110298
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3834
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8847
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10101
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11280
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6267
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3429
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1899
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8773
+},
+{
+"cores": 30,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40109
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44827
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 99091
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13640
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7446
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2175
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39519
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11133
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12312
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54265
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3687
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2157
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 85800
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11059
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3061
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6747
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14672
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34210
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9732
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10912
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6083
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6673
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58394
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8405
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38634
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5419
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12091
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53085
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58099
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33325
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38339
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 94187
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48071
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 52790
+},
+{
+"cores": 30,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57509
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8257
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9437
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58099
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 72898
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38339
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 86115
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48071
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13197
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 115606
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8257
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9511
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42763
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 95552
+},
+{
+"cores": 30,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3282
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14377
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32736
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 75498
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5309
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47187
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6525
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 113837
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8110
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 74318
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5272
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11723
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6489
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56624
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32146
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9216
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41878
+},
+{
+"cores": 24,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2913
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12902
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3522
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 31851
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9142
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41288
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11575
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51021
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56034
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7815
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2268
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40993
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11501
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3171
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13934
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7741
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8995
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10174
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45712
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 100860
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3466
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 67092
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2212
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10101
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45122
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50136
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3429
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30376
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35095
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10027
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44827
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 99681
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 109118
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7520
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8700
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9953
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44532
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 49546
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54265
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7373
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2157
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9806
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5530
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3061
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6747
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58689
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8552
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38929
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43943
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48661
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53675
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7300
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2120
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 84510
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2710
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3024
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13271
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7263
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33325
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9584
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10764
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12017
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 52790
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57804
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12091
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53380
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3632
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8405
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9584
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10838
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12017
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53085
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 126443
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8257
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 83220
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42763
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5972
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13123
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7189
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8184
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2360
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2655
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11870
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 104399
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3577
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8110
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4682
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2636
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5899
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6489
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7079
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32146
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 80640
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 83755
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5825
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51611
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 112657
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1991
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2286
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41583
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11575
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6415
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14008
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 31556
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4535
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41288
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2876
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 101450
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13934
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30966
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8995
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5088
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45712
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 100860
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3466
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7667
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35685
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5051
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11354
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50136
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 55150
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3797
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35095
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2507
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5604
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 49841
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3411
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7520
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34800
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39814
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11133
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12386
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54265
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7446
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4313
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39519
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44238
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 49251
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6747
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14672
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34210
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38929
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5493
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48661
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13418
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14598
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8478
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9658
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43648
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6046
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 106759
+},
+{
+"cores": 24,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 116196
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33620
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38339
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43353
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12017
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38929
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10912
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48366
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13345
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14524
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33620
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9584
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10838
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12017
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3319
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14451
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4166
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38044
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 86115
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11944
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6599
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14377
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8257
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2360
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2655
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2968
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6525
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14303
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32441
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9363
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5272
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47187
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12976
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14229
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8036
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9289
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41878
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2931
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6452
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14156
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1991
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9142
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41583
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11575
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51316
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7005
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7889
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2268
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10322
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5751
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3190
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 55739
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46597
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51316
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56329
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 31556
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 79994
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5161
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2876
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6378
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13934
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1954
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 78704
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10248
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45712
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12681
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 55444
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30966
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8921
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40698
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45417
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12607
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3448
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3834
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8847
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2507
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5641
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 102630
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57214
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8184
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2341
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42468
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11796
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12976
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14229
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8036
+},
+{
+"cores": 30,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 37159
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2618
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5862
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51611
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56624
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3981
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 52200
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14229
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8110
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9289
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42173
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46892
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 113541
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14156
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8036
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 73728
+},
+{
+"cores": 24,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 83166
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46597
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51316
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56329
+},
+{
+"cores": 30,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 31556
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9142
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5161
+},
+{
+"cores": 8,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 101283
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6378
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 112067
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3908
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2268
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5124
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5751
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50726
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13861
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3871
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35685
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5088
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45417
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50431
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 55150
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7667
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2212
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5051
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11280
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12534
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54855
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7594
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8773
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40109
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44827
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 99091
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13640
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7446
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34800
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 79037
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44532
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 49251
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13566
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1844
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34505
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9806
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11059
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12239
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53970
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7337
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8552
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9732
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10912
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6083
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13345
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58394
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8405
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9658
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10838
+},
+{
+"cores": 24,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3024
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3319
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7263
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8331
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2397
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10764
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3005
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 105579
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57804
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8257
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2360
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10690
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47482
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6562
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14303
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32736
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4682
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42468
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47187
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13050
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10690
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5972
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13123
+},
+{
+"cores": 8,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 125798
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32736
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 75498
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 42468
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47482
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 52200
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7115
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4055
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 74318
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10543
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 93782
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3245
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7079
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8036
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9216
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 83755
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11649
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51611
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14082
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 31851
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 79994
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10322
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46302
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51021
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7005
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1954
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9068
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2563
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5751
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6341
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 111477
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1936
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8995
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10174
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11428
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12607
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6931
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30671
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8847
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5051
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5641
+},
+{
+"cores": 24,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 109670
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6857
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3797
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 70189
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2507
+},
+{
+"cores": 8,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 89654
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6231
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 54560
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30081
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 69599
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9953
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11133
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12386
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13566
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7373
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34505
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39224
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44238
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12239
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13492
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58689
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8552
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38929
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5493
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12165
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 117411
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14598
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33915
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38634
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43648
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 105799
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53085
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14524
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8331
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38339
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 86115
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12017
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6599
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 126443
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8257
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38044
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 127088
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 33620
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4793
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10838
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 96142
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 106169
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3614
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2065
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 38044
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10690
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11944
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13123
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3595
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32736
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 37749
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10617
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5936
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3263
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57214
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4055
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4682
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10543
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2950
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6489
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14156
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8036
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 73728
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10469
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46597
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6452
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3522
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7962
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2286
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10395
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11575
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51316
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56034
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 31556
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9068
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41288
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2876
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6341
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6968
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1936
+},
+{
+"cores": 30,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4498
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10174
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5714
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 110315
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 55444
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7667
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 78059
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10101
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 45417
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50136
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3448
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 66447
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35390
+},
+{
+"cores": 24,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 80216
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2802
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 49841
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3411
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7520
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4350
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9953
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11133
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 99091
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3392
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 29786
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8626
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2470
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11059
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12312
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13492
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2065
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 34210
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9732
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5493
+},
+{
+"cores": 24,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48661
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53675
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14598
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4240
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9658
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10912
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48366
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6673
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14524
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48956
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6710
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58689
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2120
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 85155
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2729
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6046
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53380
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14524
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8405
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9584
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5419
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 48071
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13271
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14451
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8331
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2378
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43058
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5972
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 52790
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57509
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8257
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2360
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10617
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2968
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3263
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57214
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 64881
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9363
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2636
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47187
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3245
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56919
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2009
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4645
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10469
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5862
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51611
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 56624
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7962
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 36570
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41583
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5788
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51316
+},
+{
+"cores": 24,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 122572
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 31556
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 36275
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 41288
+},
+{
+"cores": 30,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11501
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51021
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13934
+},
+{
+"cores": 24,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1954
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8995
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10248
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11428
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12681
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3466
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1917
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 71369
+},
+{
+"cores": 24,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 80806
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11354
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3134
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13787
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30376
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35390
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 40109
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5641
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12460
+},
+{
+"cores": 30,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6857
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 30081
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35095
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9953
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 89064
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 49546
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 3392
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 3723
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 75479
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9879
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 44238
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12312
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53970
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7373
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8552
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4903
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 87884
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6120
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 53675
+},
+{
+"cores": 8,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2784
+},
+{
+"cores": 24,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6157
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13566
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7373
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8552
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 39224
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5493
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 97911
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6710
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58689
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8478
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9732
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 95477
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6083
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 6673
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 58394
+},
+{
+"cores": 4,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 73543
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4829
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10838
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 12091
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13271
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 115606
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 8331
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 4756
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 43058
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47777
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13197
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14377
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 66060
+},
+{
+"cores": 24,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9437
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10690
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5936
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13123
+},
+{
+"cores": 30,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 57214
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 32736
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 9363
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10617
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 47187
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51905
+},
+{
+"cores": 2,
+"mem": 71680,
+"local_SLA": 7168,
+"remote_SLA": 124508
+},
+{
+"cores": 4,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 64291
+},
+{
+"cores": 8,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 37159
+},
+{
+"cores": 8,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5235
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5862
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51611
+},
+{
+"cores": 30,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 7079
+},
+{
+"cores": 2,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 1991
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 36865
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 83166
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 46597
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51316
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 14082
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7889
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 36275
+},
+{
+"cores": 4,
+"mem": 2048,
+"local_SLA": 204,
+"remote_SLA": 2581
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 11501
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 51021
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 55739
+},
+{
+"cores": 4,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7815
+},
+{
+"cores": 2,
+"mem": 65536,
+"local_SLA": 6553,
+"remote_SLA": 71959
+},
+{
+"cores": 4,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5124
+},
+{
+"cores": 2,
+"mem": 4096,
+"local_SLA": 409,
+"remote_SLA": 5714
+},
+{
+"cores": 2,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 50726
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 13861
+},
+{
+"cores": 2,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 7741
+},
+{
+"cores": 4,
+"mem": 32768,
+"local_SLA": 3276,
+"remote_SLA": 35685
+},
+{
+"cores": 8,
+"mem": 8192,
+"local_SLA": 819,
+"remote_SLA": 10174
+}
+]
+}
