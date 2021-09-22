@@ -9,7 +9,7 @@ Each folder has a `Makefile` that can be used to compile the source code.
 
 ## Requirement
 
-You need to install [Gecode][gecode] to be able to use our source code. A quick recepie would be to run the following commands:
+You need to install [Gecode][gecode-website] to be able to use our source code. A quick recepie would be to run the following commands:
 
 ```bash
 sudo apt-get install libgecode-dev
@@ -19,7 +19,7 @@ sudo apt-get install libqtcore4 libqt4-dev
 sudo ldconfig
 ```
 
-For more information, please refer to the Gecode documentation. 
+Note that Gecode also requires QT libraries. For more information, please refer to the [Gecode documentation][gecode-doc]. 
 
 [technical-report-link]: to-be-updated
 [gecode-website]: https://www.gecode.org/
