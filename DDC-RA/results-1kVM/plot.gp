@@ -117,12 +117,12 @@ plot '' using (1):(TOTAL_SLO_VIOLATION_FF*100/N_SLO_TOTAL) with boxes linecolor 
 #Price
 OVERPRICES_FF_ALL = (system("awk -F, '{if($3>0 && NR!=1){print $0}}' price_compare.txt | wc -l"))
 N_ALL = (system("awk -F, '{if(NR!=1){print $0}}' price_compare.txt | wc -l"))
-MIN_OVERPRICE_FF_ALL = (system("awk -F, '{if($3>0 && NR!=1 ){print $3*100/$1}}' price_compare.txt | sort -g | head -n 1"))
-MAX_OVERPRICE_FF_ALL = (system("awk -F, '{if($3>0 && NR!=1 ){print $3*100/$1}}' price_compare.txt | sort -g | tail -n 1"))
+MIN_OVERPRICE_FF_ALL = (system("awk -F, '{if($3>0 && NR!=1 ){print $3*100/$1}}' price_compare.txt | sort -g | head -n 1 | xargs printf %.2f"))
+MAX_OVERPRICE_FF_ALL = (system("awk -F, '{if($3>0 && NR!=1 ){print $3*100/$1}}' price_compare.txt | sort -g | tail -n 1 | xargs printf %.2f"))
 OVERPRICES_FF_SLO_APPROVED = (system("awk -F, '{if($3>0 && NR!=1 && $4==0 && $5==0){print $0}}' price_compare.txt | wc -l"))
 N_SLA_APPROVED = (system("awk -F, '{if(NR!=1 && $4==0 && $5==0){print $0}}' price_compare.txt | wc -l"))
-MIN_OVERPRICE_FF_SLO_APPROVED = (system("awk -F, '{if($3>0 && NR!=1 && $4==0 && $5==0){print $3*100/$1}}' price_compare.txt | sort -g | head -n 1"))
-MAX_OVERPRICE_FF_SLO_APPROVED = (system("awk -F, '{if($3>0 && NR!=1 && $4==0 && $5==0){print $3*100/$1}}' price_compare.txt | sort -g | tail -n 1"))
+MIN_OVERPRICE_FF_SLO_APPROVED = (system("awk -F, '{if($3>0 && NR!=1 && $4==0 && $5==0){print $3*100/$1}}' price_compare.txt | sort -g | head -n 1 | xargs printf %.2f"))
+MAX_OVERPRICE_FF_SLO_APPROVED = (system("awk -F, '{if($3>0 && NR!=1 && $4==0 && $5==0){print $3*100/$1}}' price_compare.txt | sort -g | tail -n 1 | xargs printf %.2f"))
 
 set style data histogram
 set style histogram cluster gap 1
@@ -137,10 +137,10 @@ unset label 1
 unset label 2
 unset label 3
 
-set label 4 sprintf("%s%% to %s%%", MIN_OVERPRICE_FF_ALL, MAX_OVERPRICE_FF_ALL) at 0.1,40 font "Helvetica, 10"
+set label 4 sprintf("%s%% to %s%%", MIN_OVERPRICE_FF_ALL, MAX_OVERPRICE_FF_ALL) at 0.72,40 font "Helvetica, 10"
 set label 5 sprintf("%s%% to %s%%", MIN_OVERPRICE_FF_SLO_APPROVED, MAX_OVERPRICE_FF_SLO_APPROVED) at 2.2,60 font "Helvetica, 10"
 set label 6 "Overpriced" at 2.38,55 font "Helvetica, 10"
-set label 7 "Overpriced" at 0.32,35 font "Helvetica, 10"
+set label 7 "Overpriced" at 0.82,35 font "Helvetica, 10"
 set output 'price.pdf'
 plot '' using (1):(OVERPRICES_FF_ALL*100/N_ALL) with boxes linecolor rgb '#2ca25f' notitle,\
 '' using (2):(OVERPRICES_FF_SLO_APPROVED*100/N_SLA_APPROVED) with boxes linecolor rgb '#2ca25f' notitle;
