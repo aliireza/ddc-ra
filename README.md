@@ -21,7 +21,25 @@ sudo ldconfig
 
 Note that Gecode also requires QT libraries. For more information, please refer to the [Gecode documentation][gecode-doc]. 
 
-[technical-report-link]: to-be-updated
+## Citing our technical report
+
+If you use our framework in any context, please cite our [technical report][technical-report-link]:
+
+```bibtex
+@inproceedings {farshin-ddio,
+author = {Farshin, Alireza and Roozbeh, Amir and {Maguire Jr.}, Gerald Q. and Kosti\'{c}, Dejan},
+title = {{Reexamining Direct Cache Access to Optimize I/O Intensive Applications for Multi-hundred-gigabit Networks}},
+booktitle = {2020 {USENIX} Annual Technical Conference ({USENIX} {ATC} 20)},
+year = {2020},
+isbn = {978-1-939133-14-4},
+pages = {673--689},
+url = {https://www.usenix.org/conference/atc20/presentation/farshin},
+publisher = {{USENIX} Association},
+month = jul,
+}
+```
+
+[technical-report-link]: https://people.kth.se/~farshin/documents/ddc-ra-technical-report.pdf
 [gecode-website]: https://www.gecode.org/
 [gecode-doc]: https://www.gecode.org/doc-latest/MPG.pdf
 
